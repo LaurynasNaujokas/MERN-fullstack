@@ -1,0 +1,19 @@
+{
+  "name": "mern-fullstack",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LaurynasNaujokas/MERN-fullstack.git"
+  },
+  "author": "Laurynas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LaurynasNaujokas/MERN-fullstack/issues"
+  },
+  "homepage": "https://github.com/LaurynasNaujokas/MERN-fullstack#readme"
+}
